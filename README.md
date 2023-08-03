@@ -16,7 +16,10 @@ git status: Laura verificou novamente o status do repositório. O Git informou q
 
 git show: Ela usou o comando git show para visualizar detalhes do commit mais recente ("e4e1c84"). O Git mostrou as alterações feitas no arquivo "README.md" nesse commit.
 
-Essas são as ações que ocorreram durante o cenário descrito. Laura fez alterações no arquivo "README.md," adicionou-as ao estágio, cometeu as alterações e as enviou para o repositório remoto no GitHub.# comandos-git
+Essas são as ações que ocorreram durante o cenário descrito. Laura fez alterações no arquivo "README.md," adicionou-as ao estágio, cometeu as alterações e as enviou para o repositório remoto no GitHub.
+
+
+# comandos-git
 
 Descrição do diretório.git
 
